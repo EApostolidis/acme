@@ -5,7 +5,7 @@
 
     <groupId>gr.codehub.teamb</groupId>
     <artifactId>acmeshop</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.1.Vaggelis-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>acmeshop</name>
